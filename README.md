@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🔭 I’m currently working on Nha Trang University
+### 🌱 I’m currently learning IT.
 
 <!--
 **HoangMinhTam-Coder/HoangMinhTam-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
