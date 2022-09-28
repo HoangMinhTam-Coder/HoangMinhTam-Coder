@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on Nha Trang University
 ### 🌱 I’m currently learning IT.
-
+### 💬 Ask me about C/C++, HTML, CSS, Javascript, Python, PHP
+### 📫 How to reach me: www.linkedin.com/in/hoàng-minh-tâm-k61
 ![How Did My Site Got Infected with Malware_ - Cyber Kingdom of Russell John](https://user-images.githubusercontent.com/86350809/192745935-c281d47c-4dbc-49d2-9c79-a56d12f33727.png)
 
 <!--
